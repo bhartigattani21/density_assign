@@ -16,6 +16,15 @@ export default function Home() {
     <>
       <Navbar />
       <MasterLife/>
+      <EQbeatsIQ />
+      <DoesThisSoundFamiliar />
+      <MeetAheadCard/>
+      <SelfImprovement/>
+      <BeBestYou />
+      <EverWonder />
+      <Test />
+      <WorkWithUs />
+      <Openvacancies />
     </>
   );
 }
