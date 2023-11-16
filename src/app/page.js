@@ -25,6 +25,7 @@ export default function Home() {
       <Test />
       <WorkWithUs />
       <Openvacancies />
+      <Footer />
     </>
   );
 }
