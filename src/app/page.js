@@ -15,17 +15,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <MasterLife/>
-      <EQbeatsIQ />
-      <DoesThisSoundFamiliar />
-      <MeetAheadCard/>
-      <SelfImprovement/>
-      <BeBestYou />
-      <EverWonder />
-      <Test />
-      <WorkWithUs />
-      <Openvacancies />
-      <Footer />
+
     </>
   );
 }
